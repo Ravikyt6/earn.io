@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Filme>
+    <ProjectVersion>1.1.0.0</ProjectVersion>
+    <PreferencesSetting FrameRate="19 fps" AspectRatio="681:382" Resolution="1362 x 764"/>
+    <ProjectMedia>
+        <Folder name="Folder" id="{15bf1f36-22d0-440e-81bc-d92d10a560b0}">
+            <file height="764" name="20211226_115549" duration="00:04:26:10" FrateNum="49742" size="67319797" createTime="2021/12/26 16:55:49" type="1" FrateDen="2531" info="D:/This pc/Documents/iMyFone Filme/Recording/20211226_115549.mp4" width="1362" hash="9c7f3e6e84d99855d25ee69ab4ae714a"/>
+        </Folder>
+    </ProjectMedia>
+    <Timeline TrackCount="4" MarkerCount="1" RulerScale="59">
+        <Track TrackLock="0" TrackIsAux="1" ClipCount="1" TrackHide="0" TrackHeight="80" TrackMute="0" TrackIndex="0" TrackType="4">
+            <Clip ClipIndex="0" TrackIndex="0">
+                <isBlank>1</isBlank>
+                <hasEffect>0</hasEffect>
+                <hasFilters>0</hasFilters>
+                <hasMirror>0</hasMirror>
+                <isDetachAudio>0</isDetachAudio>
+                <name>BlankClip</name>
+                <path></path>
+                <frameIn>0</frameIn>
+                <frameOut>0</frameOut>
+                <in>0</in>
+                <out>0</out>
+                <duration>1</duration>
+                <fps>1</fps>
+                <mediaType>0</mediaType>
+                <speed>1.00</speed>
+                <mapX>0</mapX>
+                <mapY>0</mapY>
+                <mapWidth>-1</mapWidth>
+                <mapHeight>-1</mapHeight>
+                <zoomX>-1</zoomX>
+                <zoomY>-1</zoomY>
+                <zoomWidth>-1</zoomWidth>
+                <zoomHeight>-1</zoomHeight>
+                <IsCrop>1</IsCrop>
+                <cropRatio>0</cropRatio>
+                <cropReset>1</cropReset>
+                <maskInfo></maskInfo>
+                <cutoutInfo></cutoutInfo>
+            </Clip>
+        </Track>
+        <Track TrackLock="0" TrackIsAux="0" ClipCount="1" TrackHide="0" TrackHeight="108" TrackMute="0" TrackIndex="1" TrackType="4">
+            <Clip ClipIndex="0" TrackIndex="1">
+                <isBlank>0</isBlank>
+                <hasEffect>0</hasEffect>
+                <hasFilters>0</hasFilters>
+                <hasMirror>0</hasMirror>
+                <isDetachAudio>0</isDetachAudio>
+                <name>20211226_115549</name>
+                <path>D:/This pc/Documents/iMyFone Filme/Recording/20211226_115549.mp4</path>
+                <frameIn>0</frameIn>
+                <frameOut>5062</frameOut>
+                <in>0</in>
+                <out>5062</out>
+                <duration>5063</duration>
+                <fps>19</fps>
+                <mediaType>1</mediaType>
+                <speed>1.00</speed>
+                <mapX>0</mapX>
+                <mapY>0</mapY>
+                <mapWidth>-1</mapWidth>
+                <mapHeight>-1</mapHeight>
+                <zoomX>-1</zoomX>
+                <zoomY>-1</zoomY>
+                <zoomWidth>-1</zoomWidth>
+                <zoomHeight>-1</zoomHeight>
+                <IsCrop>1</IsCrop>
+                <cropRatio>0</cropRatio>
+                <cropReset>1</cropReset>
+                <maskInfo></maskInfo>
+                <cutoutInfo></cutoutInfo>
+            </Clip>
+        </Track>
+        <Track TrackLock="0" TrackIsAux="0" ClipCount="1" TrackHide="0" TrackHeight="80" TrackMute="0" TrackIndex="2" TrackType="3">
+            <Clip ClipIndex="0" TrackIndex="2">
+                <isBlank>1</isBlank>
+                <hasEffect>0</hasEffect>
+                <hasFilters>0</hasFilters>
+                <hasMirror>0</hasMirror>
+                <isDetachAudio>0</isDetachAudio>
+                <name>BlankClip</name>
+                <path></path>
+                <frameIn>0</frameIn>
+                <frameOut>0</frameOut>
+                <in>0</in>
+                <out>0</out>
+                <duration>1</duration>
+                <fps>1</fps>
+                <mediaType>0</mediaType>
+                <speed>1.00</speed>
+                <mapX>0</mapX>
+                <mapY>0</mapY>
+                <mapWidth>-1</mapWidth>
+                <mapHeight>-1</mapHeight>
+                <zoomX>-1</zoomX>
+                <zoomY>-1</zoomY>
+                <zoomWidth>-1</zoomWidth>
+                <zoomHeight>-1</zoomHeight>
+                <IsCrop>1</IsCrop>
+                <cropRatio>0</cropRatio>
+                <cropReset>1</cropReset>
+                <maskInfo></maskInfo>
+                <cutoutInfo></cutoutInfo>
+            </Clip>
+        </Track>
+        <Track TrackLock="0" TrackIsAux="1" ClipCount="1" TrackHide="0" TrackHeight="80" TrackMute="0" TrackIndex="3" TrackType="3">
+            <Clip ClipIndex="0" TrackIndex="3">
+                <isBlank>1</isBlank>
+                <hasEffect>0</hasEffect>
+                <hasFilters>0</hasFilters>
+                <hasMirror>0</hasMirror>
+                <isDetachAudio>0</isDetachAudio>
+                <name>BlankClip</name>
+                <path></path>
+                <frameIn>0</frameIn>
+                <frameOut>0</frameOut>
+                <in>0</in>
+                <out>0</out>
+                <duration>1</duration>
+                <fps>1</fps>
+                <mediaType>0</mediaType>
+                <speed>1.00</speed>
+                <mapX>0</mapX>
+                <mapY>0</mapY>
+                <mapWidth>-1</mapWidth>
+                <mapHeight>-1</mapHeight>
+                <zoomX>-1</zoomX>
+                <zoomY>-1</zoomY>
+                <zoomWidth>-1</zoomWidth>
+                <zoomHeight>-1</zoomHeight>
+                <IsCrop>1</IsCrop>
+                <cropRatio>0</cropRatio>
+                <cropReset>1</cropReset>
+                <maskInfo></maskInfo>
+                <cutoutInfo></cutoutInfo>
+            </Clip>
+        </Track>
+        <TransitionTotal Size="0"/>
+        <Marker>
+            <Name></Name>
+            <FramePosition>0</FramePosition>
+            <Color>1</Color>
+            <Comment></Comment>
+        </Marker>
+    </Timeline>
+</Filme>
